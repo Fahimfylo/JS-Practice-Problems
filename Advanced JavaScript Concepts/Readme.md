@@ -1,3 +1,4 @@
+**Topics
 1. Higher Order Functions
 Functions that take other functions as arguments or return them.
 
@@ -28,3 +29,4 @@ Functional programming concepts, used for optimization & clean code.
 10. Closures
 Functions remembering variables even after parent execution ends.
 (One of the most advanced topics!)
+
